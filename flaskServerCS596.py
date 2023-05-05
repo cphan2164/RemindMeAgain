@@ -1,3 +1,8 @@
+# Made By Conor Phan
+# This is the flask server for cs596 project
+# It gets information from TTGO, Google Sheets, OpenWeather API, and NewsAPI
+# It sends information to TTGO and IFTTT
+
 # Importing all of the required info
 from flask import Flask
 from flask import request
