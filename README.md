@@ -54,15 +54,14 @@ In Rasberry PI:
   export FLASK_APP=flaskServerCS596
   python3 -m flask run --host=0.0.0.0
 
+## IFTTT Applets 
+![Applets](https://user-images.githubusercontent.com/81449923/236390543-d08905b1-5823-4a21-888e-34f1cf3735fe.png)
 
-Contact Information
-This code was written by Conor Phan and 
-Email: conorphan1@gmail.com.
-If you have any questions or concerns about this code, please contact Conor Phan.
 
-Powerpoint Demo: https://docs.google.com/presentation/d/1awXMM0R2P9MCi0kYBfQlhiYfmwHvr1Eu2TiK8V-bEno/edit#slide=id.p
 
-Youtube Demo: https://youtu.be/CLyErHZBiUc
+### Powerpoint Demo: https://docs.google.com/presentation/d/1awXMM0R2P9MCi0kYBfQlhiYfmwHvr1Eu2TiK8V-bEno/edit#slide=id.p
+
+### Youtube Demo: https://youtu.be/CLyErHZBiUc
 
 ## Use of Device:
 ![Use of IOT](https://user-images.githubusercontent.com/81449923/236358791-ec2af00b-8d2f-47a8-a857-468c41db02a3.PNG)
@@ -70,7 +69,11 @@ Youtube Demo: https://youtu.be/CLyErHZBiUc
 ## Device Itself:
 ![TTGO and Raspberry](https://user-images.githubusercontent.com/81449923/236358821-1d7de8ad-7fa0-4521-a222-2f87e4e25852.JPG)
 
-
+## Contact Information
+This code was written by Conor Phan <br />
+Email: conorphan1@gmail.com. <br />
+LinkedIn: [Conor Phan](https://www.linkedin.com/in/conor-phan/) <br />
+If you have any questions or concerns about this code contact me <br />
 
 
 
